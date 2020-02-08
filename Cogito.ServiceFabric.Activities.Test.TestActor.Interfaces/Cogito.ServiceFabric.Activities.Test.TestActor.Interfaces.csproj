@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Cogito.ServiceFabric.Actors\Cogito.ServiceFabric.Actors.csproj" />
+    <PackageReference Include="Cogito.ServiceFabric.Actors" Version="2.0.2" />
   </ItemGroup>
 
 </Project>

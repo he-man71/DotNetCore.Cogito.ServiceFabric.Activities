@@ -9,12 +9,12 @@
 
     <ItemGroup>
       <PackageReference Include="Cogito.Activities" Version="3.1.1" />
+      <PackageReference Include="Cogito.ServiceFabric.Actors" Version="2.0.9" />
     </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="..\Cogito.ServiceFabric.Activities.Test.TestActor.Interfaces\Cogito.ServiceFabric.Activities.Test.TestActor.Interfaces.csproj" />
       <ProjectReference Include="..\Cogito.ServiceFabric.Activities\Cogito.ServiceFabric.Activities.csproj" />
-      <ProjectReference Include="..\Cogito.ServiceFabric.Actors\Cogito.ServiceFabric.Actors.csproj" />
     </ItemGroup>
 
     <ItemGroup>

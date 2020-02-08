@@ -5,9 +5,9 @@
         <RepositoryUrl>https://github.com/wasabii/Cogito.ServiceFabric</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <PackageLicenseUrl></PackageLicenseUrl>
-        <PackageProjectUrl>https://github.com/wasabii/Cogito.ServiceFabric</PackageProjectUrl>
+        <PackageProjectUrl>https://github.com/wasabii/Cogito.ServiceFabric.Activities</PackageProjectUrl>
         <PackageIconUrl>https://cloverluxussc.blob.core.windows.net/public/cogito-nuget-icon.png</PackageIconUrl>
-        <PackageTags>servicefabric</PackageTags>
+        <PackageTags>servicefabric wwf activities workflow</PackageTags>
         <LangVersion>8.0</LangVersion>
     </PropertyGroup>
 </Project>

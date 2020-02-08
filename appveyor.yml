@@ -17,11 +17,11 @@ before_build:
 
 build:
   verbosity: minimal
-  project: Cogito.ServiceFabric.sln
+  project: Cogito.ServiceFabric.Activities.sln
 
 artifacts:
   - path: pkg\*.nupkg
-    name: Cogito.ServiceFabric
+    name: Cogito.ServiceFabric.Activities
 
 deploy:
   provider: NuGet

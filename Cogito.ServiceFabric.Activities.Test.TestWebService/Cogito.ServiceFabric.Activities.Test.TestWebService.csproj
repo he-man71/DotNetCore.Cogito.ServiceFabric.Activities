@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Cogito.ServiceFabric.Http" Version="2.0.9" />
     <PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.2.7" />
     <PackageReference Include="Microsoft.AspNet.WebApi.Owin" Version="5.2.7" />
   </ItemGroup>
@@ -15,7 +16,6 @@
   <ItemGroup>
     <ProjectReference Include="..\Cogito.ServiceFabric.Activities.Test.TestActor.Interfaces\Cogito.ServiceFabric.Activities.Test.TestActor.Interfaces.csproj" />
     <ProjectReference Include="..\Cogito.ServiceFabric.Activities\Cogito.ServiceFabric.Activities.csproj" />
-    <ProjectReference Include="..\Cogito.ServiceFabric.Http\Cogito.ServiceFabric.Http.csproj" />
   </ItemGroup>
 
 </Project>
